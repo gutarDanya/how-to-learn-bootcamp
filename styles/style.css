@@ -206,25 +206,25 @@ font-weight:600;
   background-color: #f2f2f2;
   position: relative;
   z-index: -4;
+  height: 890px;
 }
 
 .feynman__title{
   width:648px;
-  margin-top:100px;
   margin-left:auto;
   margin-right:auto;
   z-index:-2;
 }
 
 .feynman__title-text{
+  margin-top:100px;
   font-size:120px;
   font-weight:600;
-  line-height: 120*1.15;
+  line-height:138px;
 text-align: center;
 }
 
 .feynman__subtitle{
-  margin-top:70px;
   z-index:-2;
 }
 
