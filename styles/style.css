@@ -213,7 +213,7 @@ font-weight:600;
   margin-top:100px;
   margin-left:auto;
   margin-right:auto;
-  z-index:-2
+  z-index:-2;
 }
 
 .feynman__title-text{
@@ -259,7 +259,7 @@ text-align: center;
   bottom:0;
   left:0;
   width:867px;
-  height:637px; 
+  height:637px;
   z-index: -3;
 }
 
@@ -275,7 +275,6 @@ text-align: center;
   margin-top:90px;
   margin-left:auto;
   margin-right:auto;
-  margin-top:90px;
 }
 
 .kaufman__title-text{
@@ -390,10 +389,8 @@ text-align: center;
   display:flex;
   align-items: center;
   justify-content:flex-start;
-  column-gap: 10px;
   margin-top:20px;
   margin-bottom:16px;
-  column-gap: 18px;
 }
 
 .column_heading-text{
