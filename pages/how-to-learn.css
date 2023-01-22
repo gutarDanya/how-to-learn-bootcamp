@@ -76,10 +76,10 @@
 @import url(../blocks/footer/__column_content_info/footer__column_content_info.css);
 @import url(../blocks/footer/__column_content_social/footer__column_content_social.css);
 @import url(../blocks/footer/__column/_theme/footer__column_theme_dark.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__author/_theme/footer__author_theme_dark.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column-links/_theme/footer__column-links_theme_dark);
 @import url(../blocks/footer/__heading/footer__heading.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
-@import url(../blocks/logo/_place/logo_place_footer.css);
