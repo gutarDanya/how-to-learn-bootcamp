@@ -5,6 +5,7 @@
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/content/content.css);
@@ -50,14 +51,14 @@
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
 @import url(../blocks/feynman/__link/_decoration/feynman__link_decoration_none.css);
-@import url(../blocks/feynman/__main_illustration/feynman__main_illustration.css);
+@import url(../blocks/feynman/__main_illustration/feynman__main-illustration.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__title/kaufman__title.css);
-@import url(../blocks/kaufman/__title/_theme/kaufman__title_theme_color_dark.css);
+@import url(../blocks/kaufman/__title/_theme/kaufman__title_theme_dark.css);
 @import url(../blocks/kaufman/__subtitle/kaufman__subtitle.css);
-@import url(../blocks/kaufman/__subtitle/_theme_color/kaufman__subtitle_theme_color_dark.css);
+@import url(../blocks/kaufman/__subtitle/_theme/kaufman__subtitle_theme_dark.css);
 @import url(../blocks/table/__cell/_place/table__cell_place_kaufman.css);
-@import url(../blocks/table/__cell/_theme/kaufman__cell_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/kaufman/__heading/kaufman__heading.css);
 @import url(../blocks/kaufman/__heading/_theme/kaufman__heading_theme_dark.css);
 @import url(../blocks/kaufman/__text/kaufman__text.css);
@@ -66,7 +67,7 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__section-title/resources__section-title.css);
 @import url(../blocks/resources/__section-subbtitle/resources__section-subbtitle.css);
-@import url(../blocks/resources/__logo-zone/resourses__logo-zone.css);
+@import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/footer/footer.css);
