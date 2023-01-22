@@ -516,7 +516,7 @@ color:white;
 
 .resources{
   display:flex;
-  flex-direction: column;;
+  flex-direction: column;
 }
 
 .resources__section-title{
