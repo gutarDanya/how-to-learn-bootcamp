@@ -1,18 +1,15 @@
-.feynman__link{
-    position:absolute;
-   right:48px;
-   left:auto;
-   top:50%;
-   text-decoration: none;
-   text-align:right;
-    line-height:51px;
-    font-weight: normal;
-    font-size:36px;
-    color:#2f80ed;
-    opacity: 1;
-    transition: opacity 0.3s linear;
-  }
-
-  .feynman__link:hover{
-opacity:0.6;
-  }
+.feynman__link {
+  position: absolute;
+  right: 48px;
+  left: auto;
+  top: 50%;
+  text-decoration: none;
+  text-align: right;
+  line-height: 51px;
+  font-weight: normal;
+  font-size: 36px;
+  color: #2f80ed;
+  opacity: 1;
+  transition: opacity 0.3s linear;
+  z-index: 2;
+}
